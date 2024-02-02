@@ -22,7 +22,7 @@
     "@snyk/dep-graph": "2.8.0",
     "@types/react-dom": "^17",
     "react-circular-progressbar": "^2.1.0",
-    "react-use": "^17.4.0"
+    "react-use": "^17.4.1"
   },
   "devDependencies": {
     "@backstage/cli": "^0.23.1",
