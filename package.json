@@ -14,15 +14,15 @@
   },
   "dependencies": {
     "@backstage/catalog-model": "1.4.3",
-    "@backstage/core-components": "0.13.7",
+    "@backstage/core-components": "0.13.9",
     "@backstage/core-plugin-api": "1.7.0",
-    "@backstage/plugin-catalog-react": "1.8.5",
+    "@backstage/plugin-catalog-react": "1.9.2",
     "@material-ui/icons": "4.11.3",
     "@material-ui/lab": "4.0.0-alpha.61",
     "@snyk/dep-graph": "2.8.0",
     "@types/react-dom": "^17",
     "react-circular-progressbar": "^2.1.0",
-    "react-use": "^17.4.0"
+    "react-use": "^17.5.1"
   },
   "devDependencies": {
     "@backstage/cli": "^0.23.1",
